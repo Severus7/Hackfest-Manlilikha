@@ -2,15 +2,27 @@
 
 Gamification of Cities
 
-Team Members:
+## Team Lead:
 
-SDG 11: Sustainable Cities and Communities
+- Joshua Jose Sapalaran
 
-Vision: To make cities sustainable by boosting their local economy
+## Team Members:
 
-Goal: Encourage citizens to support local businesses in their respective communities and increase civic engagement.
+- Adm Javier
+- Mc Larron M. Bracero
+- Mark Lowel Montealto
 
-Overview:
+# SDG 11: Sustainable Cities and Communities
+
+## Vision
+
+To make cities sustainable by boosting their local economy
+
+## Goal
+
+Encourage citizens to support local businesses in their respective communities and increase civic engagement.
+
+## Overview:
 
 Behavioral economics integrates psychology and economics to understand how humans make decisions and the reason for their behavior. If city officials can discern the underlying principles of what drives their citizens’ behavior, they may encourage and reward behaviors that are consistent with their objectives. In order for that to be possible, we decided to gamify city interactions. Gamification is the technique of incorporating game-like elements into non-game environments to stimulate participation.
 

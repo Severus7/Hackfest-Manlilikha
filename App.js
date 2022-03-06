@@ -67,7 +67,7 @@ export default function App() {
         <Button
           title={"Scan again?"}
           onPress={() => setScanned(false)}
-          color="tomator"
+          color="tomato"
         />
       )}
     </View>
