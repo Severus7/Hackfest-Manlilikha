@@ -40,7 +40,7 @@ export default function App() {
   if (hasPermission === false) {
     return (
       <View style={styles.container}>
-        <Text style={{ fontSize: "24" }}>Welcome to iCITY</Text>
+        <Text style={{ fontSize: "24" }}>Welcome to Lokale</Text>
         <Text>We empower cities by boosting their local economy</Text>
         <Button
           title={"Allow Camera"}
@@ -53,7 +53,7 @@ export default function App() {
   // Return the View
   return (
     <View style={styles.container}>
-      <Text>Welcome to iCITY</Text>
+      <Text>Welcome to Lokale</Text>
       <Text>We empower cities by boosting their local economy</Text>
       <View style={styles.barcodebox}>
         <BarCodeScanner
